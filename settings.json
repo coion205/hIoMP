@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "calmn_ess.aternos.me:",
+    "ip": "calmn_ess.aternos.me",
     "port": 12700,
     "version": "",
     "try-creative": false
